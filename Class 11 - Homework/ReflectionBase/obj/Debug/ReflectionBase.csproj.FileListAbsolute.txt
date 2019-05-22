@@ -1,0 +1,30 @@
+C:\Users\Natalija\Desktop\web development\C# Advanced\New Repository from Git\g5\Class11\ReflectionBase\bin\Debug\ReflectionBase.exe.config
+C:\Users\Natalija\Desktop\web development\C# Advanced\New Repository from Git\g5\Class11\ReflectionBase\bin\Debug\ReflectionBase.exe
+C:\Users\Natalija\Desktop\web development\C# Advanced\New Repository from Git\g5\Class11\ReflectionBase\bin\Debug\ReflectionBase.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\New Repository from Git\g5\Class11\ReflectionBase\obj\Debug\ReflectionBase.csprojAssemblyReference.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\New Repository from Git\g5\Class11\ReflectionBase\obj\Debug\ReflectionBase.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\New Repository from Git\g5\Class11\ReflectionBase\obj\Debug\ReflectionBase.exe
+C:\Users\Natalija\Desktop\web development\C# Advanced\New Repository from Git\g5\Class11\ReflectionBase\obj\Debug\ReflectionBase.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\New Repository from Git\g5\Class11\ReflectionBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Natalija\Desktop\web development\C# Advanced\New Repository from Git\g5\Class11\ReflectionBase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Natalija\Desktop\web development\C# Advanced\New Repository from Git\g5\Class11\ReflectionBase\obj\Debug\ReflectionBase.csproj.CopyComplete
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 11 - 23.04.2019 -\Homework\Class11\ReflectionBase\bin\Debug\ReflectionBase.exe.config
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 11 - 23.04.2019 -\Homework\Class11\ReflectionBase\bin\Debug\ReflectionBase.exe
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 11 - 23.04.2019 -\Homework\Class11\ReflectionBase\bin\Debug\ReflectionBase.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 11 - 23.04.2019 -\Homework\Class11\ReflectionBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 11 - 23.04.2019 -\Homework\Class11\ReflectionBase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 11 - 23.04.2019 -\Homework\Class11\ReflectionBase\obj\Debug\ReflectionBase.csprojAssemblyReference.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 11 - 23.04.2019 -\Homework\Class11\ReflectionBase\obj\Debug\ReflectionBase.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 11 - 23.04.2019 -\Homework\Class11\ReflectionBase\obj\Debug\ReflectionBase.csproj.CopyComplete
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 11 - 23.04.2019 -\Homework\Class11\ReflectionBase\obj\Debug\ReflectionBase.exe
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 11 - 23.04.2019 -\Homework\Class11\ReflectionBase\obj\Debug\ReflectionBase.pdb
+C:\Users\Natalija\Documents\GitHub\Homework-Class-11---AdvancedC-\Homework - Class11\ReflectionBase\bin\Debug\ReflectionBase.exe.config
+C:\Users\Natalija\Documents\GitHub\Homework-Class-11---AdvancedC-\Homework - Class11\ReflectionBase\bin\Debug\ReflectionBase.exe
+C:\Users\Natalija\Documents\GitHub\Homework-Class-11---AdvancedC-\Homework - Class11\ReflectionBase\bin\Debug\ReflectionBase.pdb
+C:\Users\Natalija\Documents\GitHub\Homework-Class-11---AdvancedC-\Homework - Class11\ReflectionBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Natalija\Documents\GitHub\Homework-Class-11---AdvancedC-\Homework - Class11\ReflectionBase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Natalija\Documents\GitHub\Homework-Class-11---AdvancedC-\Homework - Class11\ReflectionBase\obj\Debug\ReflectionBase.csprojAssemblyReference.cache
+C:\Users\Natalija\Documents\GitHub\Homework-Class-11---AdvancedC-\Homework - Class11\ReflectionBase\obj\Debug\ReflectionBase.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Documents\GitHub\Homework-Class-11---AdvancedC-\Homework - Class11\ReflectionBase\obj\Debug\ReflectionBase.csproj.CopyComplete
+C:\Users\Natalija\Documents\GitHub\Homework-Class-11---AdvancedC-\Homework - Class11\ReflectionBase\obj\Debug\ReflectionBase.exe
+C:\Users\Natalija\Documents\GitHub\Homework-Class-11---AdvancedC-\Homework - Class11\ReflectionBase\obj\Debug\ReflectionBase.pdb

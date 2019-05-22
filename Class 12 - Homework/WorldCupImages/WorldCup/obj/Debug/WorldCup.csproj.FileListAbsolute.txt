@@ -1,0 +1,26 @@
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 12 - 05.02.2019 -\Class12 - 3 del\WorldCup\bin\Debug\WorldCup.exe.config
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 12 - 05.02.2019 -\Class12 - 3 del\WorldCup\bin\Debug\WorldCup.exe
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 12 - 05.02.2019 -\Class12 - 3 del\WorldCup\bin\Debug\WorldCup.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 12 - 05.02.2019 -\Class12 - 3 del\WorldCup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 12 - 05.02.2019 -\Class12 - 3 del\WorldCup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 12 - 05.02.2019 -\Class12 - 3 del\WorldCup\obj\Debug\WorldCup.csprojAssemblyReference.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 12 - 05.02.2019 -\Class12 - 3 del\WorldCup\obj\Debug\WorldCup.WorldCupForm.resources
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 12 - 05.02.2019 -\Class12 - 3 del\WorldCup\obj\Debug\WorldCup.Properties.Resources.resources
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 12 - 05.02.2019 -\Class12 - 3 del\WorldCup\obj\Debug\WorldCup.csproj.GenerateResource.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 12 - 05.02.2019 -\Class12 - 3 del\WorldCup\obj\Debug\WorldCup.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 12 - 05.02.2019 -\Class12 - 3 del\WorldCup\obj\Debug\WorldCup.csproj.CopyComplete
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 12 - 05.02.2019 -\Class12 - 3 del\WorldCup\obj\Debug\WorldCup.exe
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 12 - 05.02.2019 -\Class12 - 3 del\WorldCup\obj\Debug\WorldCup.pdb
+C:\Users\Natalija\Documents\GitHub\Homework-Class-12---AdvancedC-\WorldCupImages\WorldCup\bin\Debug\WorldCup.exe.config
+C:\Users\Natalija\Documents\GitHub\Homework-Class-12---AdvancedC-\WorldCupImages\WorldCup\bin\Debug\WorldCup.exe
+C:\Users\Natalija\Documents\GitHub\Homework-Class-12---AdvancedC-\WorldCupImages\WorldCup\bin\Debug\WorldCup.pdb
+C:\Users\Natalija\Documents\GitHub\Homework-Class-12---AdvancedC-\WorldCupImages\WorldCup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Natalija\Documents\GitHub\Homework-Class-12---AdvancedC-\WorldCupImages\WorldCup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Natalija\Documents\GitHub\Homework-Class-12---AdvancedC-\WorldCupImages\WorldCup\obj\Debug\WorldCup.csprojAssemblyReference.cache
+C:\Users\Natalija\Documents\GitHub\Homework-Class-12---AdvancedC-\WorldCupImages\WorldCup\obj\Debug\WorldCup.WorldCupForm.resources
+C:\Users\Natalija\Documents\GitHub\Homework-Class-12---AdvancedC-\WorldCupImages\WorldCup\obj\Debug\WorldCup.Properties.Resources.resources
+C:\Users\Natalija\Documents\GitHub\Homework-Class-12---AdvancedC-\WorldCupImages\WorldCup\obj\Debug\WorldCup.csproj.GenerateResource.cache
+C:\Users\Natalija\Documents\GitHub\Homework-Class-12---AdvancedC-\WorldCupImages\WorldCup\obj\Debug\WorldCup.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Documents\GitHub\Homework-Class-12---AdvancedC-\WorldCupImages\WorldCup\obj\Debug\WorldCup.csproj.CopyComplete
+C:\Users\Natalija\Documents\GitHub\Homework-Class-12---AdvancedC-\WorldCupImages\WorldCup\obj\Debug\WorldCup.exe
+C:\Users\Natalija\Documents\GitHub\Homework-Class-12---AdvancedC-\WorldCupImages\WorldCup\obj\Debug\WorldCup.pdb

@@ -1,0 +1,10 @@
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BooksProvider\bin\Debug\BooksProvider.dll
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BooksProvider\bin\Debug\BooksProvider.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BooksProvider\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BooksProvider\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BooksProvider\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BooksProvider\obj\Debug\BooksProvider.csprojAssemblyReference.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BooksProvider\obj\Debug\BooksProvider.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BooksProvider\obj\Debug\BooksProvider.csproj.CopyComplete
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BooksProvider\obj\Debug\BooksProvider.dll
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BooksProvider\obj\Debug\BooksProvider.pdb

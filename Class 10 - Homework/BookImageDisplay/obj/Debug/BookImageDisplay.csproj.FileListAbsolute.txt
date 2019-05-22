@@ -1,0 +1,72 @@
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.csprojAssemblyReference.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.MainForm.resources
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.Properties.Resources.resources
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.csproj.GenerateResource.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BookImageDisplay\bin\Debug\authors.json
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BookImageDisplay\bin\Debug\awards.json
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BookImageDisplay\bin\Debug\BookImageDisplay.exe.config
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BookImageDisplay\bin\Debug\BookImageDisplay.exe
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BookImageDisplay\bin\Debug\BookImageDisplay.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BookImageDisplay\bin\Debug\BooksProvider.dll
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BookImageDisplay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BookImageDisplay\bin\Debug\BooksProvider.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BookImageDisplay\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BookImageDisplay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.csproj.CopyComplete
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.exe
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 -\Solution Homework\Class10\BookImageDisplay\bin\Debug\authors.json
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 -\Solution Homework\Class10\BookImageDisplay\bin\Debug\awards.json
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 -\Solution Homework\Class10\BookImageDisplay\bin\Debug\BookImageDisplay.exe.config
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 -\Solution Homework\Class10\BookImageDisplay\bin\Debug\BookImageDisplay.exe
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 -\Solution Homework\Class10\BookImageDisplay\bin\Debug\BookImageDisplay.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 -\Solution Homework\Class10\BookImageDisplay\bin\Debug\BooksProvider.dll
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 -\Solution Homework\Class10\BookImageDisplay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 -\Solution Homework\Class10\BookImageDisplay\bin\Debug\BooksProvider.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 -\Solution Homework\Class10\BookImageDisplay\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 -\Solution Homework\Class10\BookImageDisplay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 -\Solution Homework\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.csprojAssemblyReference.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 -\Solution Homework\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.MainForm.resources
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 -\Solution Homework\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.Properties.Resources.resources
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 -\Solution Homework\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.csproj.GenerateResource.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 -\Solution Homework\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 -\Solution Homework\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.csproj.CopyComplete
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 -\Solution Homework\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.exe
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 -\Solution Homework\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 - Windows Forms\Solution Homework\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.csprojAssemblyReference.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 - Windows Forms\Solution Homework\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.MainForm.resources
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 - Windows Forms\Solution Homework\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.Properties.Resources.resources
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 - Windows Forms\Solution Homework\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.csproj.GenerateResource.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 - Windows Forms\Solution Homework\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 - Windows Forms\Solution Homework\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.exe
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 - Windows Forms\Solution Homework\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 - Windows Forms\Solution Homework\Class10\BookImageDisplay\bin\Debug\authors.json
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 - Windows Forms\Solution Homework\Class10\BookImageDisplay\bin\Debug\awards.json
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 - Windows Forms\Solution Homework\Class10\BookImageDisplay\bin\Debug\BookImageDisplay.exe.config
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 - Windows Forms\Solution Homework\Class10\BookImageDisplay\bin\Debug\BookImageDisplay.exe
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 - Windows Forms\Solution Homework\Class10\BookImageDisplay\bin\Debug\BookImageDisplay.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 - Windows Forms\Solution Homework\Class10\BookImageDisplay\bin\Debug\BooksProvider.dll
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 - Windows Forms\Solution Homework\Class10\BookImageDisplay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 - Windows Forms\Solution Homework\Class10\BookImageDisplay\bin\Debug\BooksProvider.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 - Windows Forms\Solution Homework\Class10\BookImageDisplay\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 - Windows Forms\Solution Homework\Class10\BookImageDisplay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 10 - 18.04.2019 - Windows Forms\Solution Homework\Class10\BookImageDisplay\obj\Debug\BookImageDisplay.csproj.CopyComplete
+C:\Users\Natalija\Documents\GitHub\Homework-Class-10---AdvancedC-\Homework - Class10\BookImageDisplay\bin\Debug\authors.json
+C:\Users\Natalija\Documents\GitHub\Homework-Class-10---AdvancedC-\Homework - Class10\BookImageDisplay\bin\Debug\awards.json
+C:\Users\Natalija\Documents\GitHub\Homework-Class-10---AdvancedC-\Homework - Class10\BookImageDisplay\bin\Debug\BookImageDisplay.exe.config
+C:\Users\Natalija\Documents\GitHub\Homework-Class-10---AdvancedC-\Homework - Class10\BookImageDisplay\bin\Debug\BookImageDisplay.exe
+C:\Users\Natalija\Documents\GitHub\Homework-Class-10---AdvancedC-\Homework - Class10\BookImageDisplay\bin\Debug\BookImageDisplay.pdb
+C:\Users\Natalija\Documents\GitHub\Homework-Class-10---AdvancedC-\Homework - Class10\BookImageDisplay\bin\Debug\BooksProvider.dll
+C:\Users\Natalija\Documents\GitHub\Homework-Class-10---AdvancedC-\Homework - Class10\BookImageDisplay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Natalija\Documents\GitHub\Homework-Class-10---AdvancedC-\Homework - Class10\BookImageDisplay\bin\Debug\BooksProvider.pdb
+C:\Users\Natalija\Documents\GitHub\Homework-Class-10---AdvancedC-\Homework - Class10\BookImageDisplay\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Natalija\Documents\GitHub\Homework-Class-10---AdvancedC-\Homework - Class10\BookImageDisplay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Natalija\Documents\GitHub\Homework-Class-10---AdvancedC-\Homework - Class10\BookImageDisplay\obj\Debug\BookImageDisplay.csprojAssemblyReference.cache
+C:\Users\Natalija\Documents\GitHub\Homework-Class-10---AdvancedC-\Homework - Class10\BookImageDisplay\obj\Debug\BookImageDisplay.MainForm.resources
+C:\Users\Natalija\Documents\GitHub\Homework-Class-10---AdvancedC-\Homework - Class10\BookImageDisplay\obj\Debug\BookImageDisplay.Properties.Resources.resources
+C:\Users\Natalija\Documents\GitHub\Homework-Class-10---AdvancedC-\Homework - Class10\BookImageDisplay\obj\Debug\BookImageDisplay.csproj.GenerateResource.cache
+C:\Users\Natalija\Documents\GitHub\Homework-Class-10---AdvancedC-\Homework - Class10\BookImageDisplay\obj\Debug\BookImageDisplay.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Documents\GitHub\Homework-Class-10---AdvancedC-\Homework - Class10\BookImageDisplay\obj\Debug\BookImageDisplay.csproj.CopyComplete
+C:\Users\Natalija\Documents\GitHub\Homework-Class-10---AdvancedC-\Homework - Class10\BookImageDisplay\obj\Debug\BookImageDisplay.exe
+C:\Users\Natalija\Documents\GitHub\Homework-Class-10---AdvancedC-\Homework - Class10\BookImageDisplay\obj\Debug\BookImageDisplay.pdb
