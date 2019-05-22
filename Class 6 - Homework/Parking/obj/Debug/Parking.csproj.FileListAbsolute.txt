@@ -1,0 +1,25 @@
+C:\Users\Natalija\source\repos\Class 6 - Homework\Parking\obj\Debug\Parking.csprojAssemblyReference.cache
+C:\Users\Natalija\source\repos\Class 6 - Homework\Parking\obj\Debug\Parking.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\source\repos\Class 6 - Homework\Parking\bin\Debug\Parking.exe.config
+C:\Users\Natalija\source\repos\Class 6 - Homework\Parking\bin\Debug\Parking.exe
+C:\Users\Natalija\source\repos\Class 6 - Homework\Parking\bin\Debug\Parking.pdb
+C:\Users\Natalija\source\repos\Class 6 - Homework\Parking\obj\Debug\Parking.exe
+C:\Users\Natalija\source\repos\Class 6 - Homework\Parking\obj\Debug\Parking.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 6 - 09.04.2019 -\Class 6 - Homework\Parking\obj\Debug\Parking.csprojAssemblyReference.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 6 - 09.04.2019 -\Class 6 - Homework\Parking\obj\Debug\Parking.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 6 - 09.04.2019 -\Class 6 - Homework\Parking\obj\Debug\Parking.exe
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 6 - 09.04.2019 -\Class 6 - Homework\Parking\obj\Debug\Parking.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 6 - 09.04.2019 -\Class 6 - Homework\Parking\bin\Debug\Parking.exe.config
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 6 - 09.04.2019 -\Class 6 - Homework\Parking\bin\Debug\Parking.exe
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 6 - 09.04.2019 -\Class 6 - Homework\Parking\bin\Debug\Parking.pdb
+C:\Users\Natalija\Documents\GitHub\Homework-Class-6---AdvancedC-\Class 6 - Homework\Parking\bin\Debug\Parking.exe.config
+C:\Users\Natalija\Documents\GitHub\Homework-Class-6---AdvancedC-\Class 6 - Homework\Parking\bin\Debug\Parking.exe
+C:\Users\Natalija\Documents\GitHub\Homework-Class-6---AdvancedC-\Class 6 - Homework\Parking\bin\Debug\Parking.pdb
+C:\Users\Natalija\Documents\GitHub\Homework-Class-6---AdvancedC-\Class 6 - Homework\Parking\obj\Debug\Parking.csprojAssemblyReference.cache
+C:\Users\Natalija\Documents\GitHub\Homework-Class-6---AdvancedC-\Class 6 - Homework\Parking\obj\Debug\Parking.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Documents\GitHub\Homework-Class-6---AdvancedC-\Class 6 - Homework\Parking\obj\Debug\Parking.exe
+C:\Users\Natalija\Documents\GitHub\Homework-Class-6---AdvancedC-\Class 6 - Homework\Parking\obj\Debug\Parking.pdb
+C:\Users\Natalija\Documents\GitHub\Homework-Class-6---AdvancedC-\Class 6 - Homework\Parking\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Natalija\Documents\GitHub\Homework-Class-6---AdvancedC-\Class 6 - Homework\Parking\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Natalija\Documents\GitHub\Homework-Class-6---AdvancedC-\Class 6 - Homework\Parking\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Natalija\Documents\GitHub\Homework-Class-6---AdvancedC-\Class 6 - Homework\Parking\obj\Debug\Parking.csproj.CopyComplete
