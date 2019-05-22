@@ -1,0 +1,7 @@
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class04\PcConfigurator\bin\Debug\PcConfigurator.exe.config
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class04\PcConfigurator\bin\Debug\PcConfigurator.exe
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class04\PcConfigurator\bin\Debug\PcConfigurator.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class04\PcConfigurator\obj\Debug\PcConfigurator.csprojAssemblyReference.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class04\PcConfigurator\obj\Debug\PcConfigurator.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class04\PcConfigurator\obj\Debug\PcConfigurator.exe
+C:\Users\Natalija\Desktop\web development\C# Advanced\sedc7-06-csharpadvanced\g5\Class04\PcConfigurator\obj\Debug\PcConfigurator.pdb
