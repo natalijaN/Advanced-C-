@@ -1,0 +1,12 @@
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 3 - 30.03.2019 -\Homework\Library management\BookLibrary\bin\Debug\BookLibrary.dll
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 3 - 30.03.2019 -\Homework\Library management\BookLibrary\bin\Debug\BookLibrary.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 3 - 30.03.2019 -\Homework\Library management\BookLibrary\obj\Debug\BookLibrary.csprojAssemblyReference.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 3 - 30.03.2019 -\Homework\Library management\BookLibrary\obj\Debug\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 3 - 30.03.2019 -\Homework\Library management\BookLibrary\obj\Debug\BookLibrary.dll
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 3 - 30.03.2019 -\Homework\Library management\BookLibrary\obj\Debug\BookLibrary.pdb
+C:\Users\Natalija\Documents\GitHub\Homework-Class-3---AdvancedC-\Homework\Library management\BookLibrary\obj\Debug\BookLibrary.csprojAssemblyReference.cache
+C:\Users\Natalija\Documents\GitHub\Homework-Class-3---AdvancedC-\Homework\Library management\BookLibrary\obj\Debug\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Documents\GitHub\Homework-Class-3---AdvancedC-\Homework\Library management\BookLibrary\obj\Debug\BookLibrary.dll
+C:\Users\Natalija\Documents\GitHub\Homework-Class-3---AdvancedC-\Homework\Library management\BookLibrary\obj\Debug\BookLibrary.pdb
+C:\Users\Natalija\Documents\GitHub\Homework-Class-3---AdvancedC-\Homework\Library management\BookLibrary\bin\Debug\BookLibrary.dll
+C:\Users\Natalija\Documents\GitHub\Homework-Class-3---AdvancedC-\Homework\Library management\BookLibrary\bin\Debug\BookLibrary.pdb

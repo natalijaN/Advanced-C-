@@ -1,0 +1,20 @@
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 3 - 30.03.2019 -\Homework\Library management\LibraryApp\obj\Debug\LibraryApp.csprojAssemblyReference.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 3 - 30.03.2019 -\Homework\Library management\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 3 - 30.03.2019 -\Homework\Library management\LibraryApp\bin\Debug\LibraryApp.exe.config
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 3 - 30.03.2019 -\Homework\Library management\LibraryApp\bin\Debug\LibraryApp.exe
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 3 - 30.03.2019 -\Homework\Library management\LibraryApp\bin\Debug\LibraryApp.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 3 - 30.03.2019 -\Homework\Library management\LibraryApp\obj\Debug\LibraryApp.exe
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 3 - 30.03.2019 -\Homework\Library management\LibraryApp\obj\Debug\LibraryApp.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 3 - 30.03.2019 -\Homework\Library management\LibraryApp\bin\Debug\BookLibrary.dll
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 3 - 30.03.2019 -\Homework\Library management\LibraryApp\bin\Debug\BookLibrary.pdb
+C:\Users\Natalija\Desktop\web development\C# Advanced\Class 3 - 30.03.2019 -\Homework\Library management\LibraryApp\obj\Debug\LibraryApp.csproj.CopyComplete
+C:\Users\Natalija\Documents\GitHub\Homework-Class-3---AdvancedC-\Homework\Library management\LibraryApp\bin\Debug\LibraryApp.exe.config
+C:\Users\Natalija\Documents\GitHub\Homework-Class-3---AdvancedC-\Homework\Library management\LibraryApp\bin\Debug\LibraryApp.exe
+C:\Users\Natalija\Documents\GitHub\Homework-Class-3---AdvancedC-\Homework\Library management\LibraryApp\bin\Debug\LibraryApp.pdb
+C:\Users\Natalija\Documents\GitHub\Homework-Class-3---AdvancedC-\Homework\Library management\LibraryApp\bin\Debug\BookLibrary.dll
+C:\Users\Natalija\Documents\GitHub\Homework-Class-3---AdvancedC-\Homework\Library management\LibraryApp\bin\Debug\BookLibrary.pdb
+C:\Users\Natalija\Documents\GitHub\Homework-Class-3---AdvancedC-\Homework\Library management\LibraryApp\obj\Debug\LibraryApp.csprojAssemblyReference.cache
+C:\Users\Natalija\Documents\GitHub\Homework-Class-3---AdvancedC-\Homework\Library management\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Documents\GitHub\Homework-Class-3---AdvancedC-\Homework\Library management\LibraryApp\obj\Debug\LibraryApp.csproj.CopyComplete
+C:\Users\Natalija\Documents\GitHub\Homework-Class-3---AdvancedC-\Homework\Library management\LibraryApp\obj\Debug\LibraryApp.exe
+C:\Users\Natalija\Documents\GitHub\Homework-Class-3---AdvancedC-\Homework\Library management\LibraryApp\obj\Debug\LibraryApp.pdb
