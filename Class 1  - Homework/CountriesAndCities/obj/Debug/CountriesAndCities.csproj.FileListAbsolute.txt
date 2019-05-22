@@ -1,0 +1,7 @@
+C:\Users\Natalija\source\repos\Class 1  - Homework\CountriesAndCities\bin\Debug\CountriesAndCities.exe.config
+C:\Users\Natalija\source\repos\Class 1  - Homework\CountriesAndCities\bin\Debug\CountriesAndCities.exe
+C:\Users\Natalija\source\repos\Class 1  - Homework\CountriesAndCities\bin\Debug\CountriesAndCities.pdb
+C:\Users\Natalija\source\repos\Class 1  - Homework\CountriesAndCities\obj\Debug\CountriesAndCities.csprojAssemblyReference.cache
+C:\Users\Natalija\source\repos\Class 1  - Homework\CountriesAndCities\obj\Debug\CountriesAndCities.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\source\repos\Class 1  - Homework\CountriesAndCities\obj\Debug\CountriesAndCities.exe
+C:\Users\Natalija\source\repos\Class 1  - Homework\CountriesAndCities\obj\Debug\CountriesAndCities.pdb
